@@ -1,5 +1,12 @@
-# Mancala Game - COSC 2P13 Assignment 2
+# Mancala Game - COSC 2P13 Assignment
 This project is a Java implementation of a networked two-player Mancala game, designed to fulfill the requirements of the COSC 2P13 Assignment 2. The game supports both terminal-based and GUI-based clients, allowing for flexible gameplay options.
+
+## Terminal Client Example
+![image](https://github.com/condyl/mancala/assets/108146005/312663d3-b424-4160-962e-116d7b3569d8)
+
+## GUI Client Example
+![rsz_6688e936a5c72](https://github.com/condyl/mancala/assets/108146005/6c3c5c7b-a376-431f-b0f1-38c0cc6eeb5b)
+
 
 ## Key Features:
 
